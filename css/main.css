@@ -136,7 +136,7 @@ a {
   margin: 0 0 4em 0em;
   font-weight: 600;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
 }
 
 .features .features-list li {
